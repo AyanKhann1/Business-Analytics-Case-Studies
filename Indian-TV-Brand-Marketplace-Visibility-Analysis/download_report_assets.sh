@@ -9,9 +9,11 @@ mkdir -p screenshots presentation
 download_file() {
   local url="$1"
   local output="$2"
+  local temp_output="${output}.download"
 
-  rm -f "$output"
-  curl -fL --retry 3 --retry-delay 2 "$url" -o "$output"
+  rm -f "$temp_output"
+  curl --ssl-no-revoke --http1.1 -fL --retry 5 --retry-delay 3 --retry-all-errors "$url" -o "$temp_output"
+  mv "$temp_output" "$output"
 }
 
 validate_png() {
