@@ -20,7 +20,7 @@ The brand had a strong product proposition in the premium smart TV category, but
 
 The analysis found that **traffic was strongly linked with sales**, but **price discounts, bank offers, coupons, and rank were not strong enough to explain performance on their own**. This shifted the investigation from surface-level discounting to deeper funnel issues.
 
-The most important business insight was that customers were reaching some product pages, but the pages were not converting efficiently. A major **Competitive Transparency Gap** was identified: product pages **lacked direct comparison tables**, which are critical for high-ticket electronics. Without these tables, customers couldn't easily see why this brand was a **better investment** compared to established competitors at the same price point, leading to decision fatigue and funnel exit.
+The most important business insight was that customers were reaching some product pages, but the pages were not converting efficiently. A major **Competitive Transparency Gap** was identified: product pages **lacked direct comparison tables**, which are critical for high-ticket electronics. Without these tables, the brand lacked a platform to show exactly where its products **stand out against marketplace giants**, making it difficult for customers to justify the investment over a familiar name at the same price point.
 
 ## Business Problem
 
@@ -37,7 +37,7 @@ The brand needed to understand whether weak sales were caused by low traffic, po
 - **Bank offers and coupons were not driving meaningful incremental sales** during normal business periods.
 - **Product C needed immediate attention** because it combined stable traffic, declining sales, high conversion, and high returns.
 - **The product pages had multiple funnel leakage areas**, especially around catalogue completeness, A+ content, customer trust, and **comparison messaging**.
-- **A lack of side-by-side comparison tables** prevented customers from justifying the brand as a "superior investment" against familiar names.
+- **A lack of side-by-side comparison tables** prevented customers from justifying the brand as a **superior investment when compared directly with market giants**.
 - **Marketplace placement mattered** because customers often make decisions before reaching lower category-page positions.
 - **Returns were not only an operations issue**, but also a signal that customer expectations and product-page communication may not have been aligned.
 
@@ -66,6 +66,7 @@ The likely root causes were:
 - Add stronger trust signals: ratings, review highlights, warranty clarity, delivery promise, installation support, and return-related expectation setting.
 - Reduce dependency on discounts and focus on traffic quality, SEO, product-page trust, and competitive positioning.
 - Run weekly competitor tracking across pricing, offers, ratings, reviews, A+ content, imagery, claims, and marketplace placement.
+- **Add aggressive Comparison Tables against leading industry giants** to clearly demonstrate the brand’s superior value proposition and feature set in the Indian market.
 - Investigate Product C returns using Amazon return reports and week-over-week return analysis.
 - Track every major catalogue or content change against traffic, conversion, sales, and return rate.
 
