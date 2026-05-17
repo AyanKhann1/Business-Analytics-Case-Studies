@@ -2,28 +2,86 @@
 
 ![Project Cover](screenshots/01_project_cover.png)
 
+## Confidentiality Note
+
+This case study is based on a real business analysis for an Indian smart TV brand launched in 2023. To protect company confidentiality, the original company and product names have been replaced with fictional names. The business problem, analytical approach, insights, and recommendations remain representative of the actual work.
+
 ## Full Report
 
-This repository contains the **brief GitHub case study** for quick recruiter review.  
+This repository contains a brief GitHub case study for quick review.
+
 For the complete presentation with **data visualizations, detailed insights, corrective actions, and business recommendations**, please check the full PDF report:
 
 **[View Full Presentation PDF](presentation/Indian-TV-Brand-Marketplace-Visibility-Analysis.pdf)**
 
-## Overview
+## Executive Summary
 
-This case study analyzes the marketplace performance of a real Indian smart TV brand launched in 2023. The analysis focuses on sales trends, traffic behavior, conversion signals, return patterns, discount effectiveness, and marketplace visibility challenges.
+The brand had a strong product proposition in the premium smart TV category, but marketplace performance was being limited by three major issues: **visibility, conversion leakage, and post-purchase returns**.
 
-The goal was to understand why the brand was not converting its marketplace potential into stronger sales, especially when traffic and product value proposition showed signs of opportunity.
+The analysis found that **traffic was strongly linked with sales**, but **price discounts, bank offers, coupons, and rank were not strong enough to explain performance on their own**. This shifted the investigation from surface-level discounting to deeper funnel issues.
 
-The analysis was built from a business assignment focused on **e-commerce and quick commerce marketplace performance**, where the expected output was an analysis file with charts, pivots, calculations, and a recommendation report with insights and suggested actions.
+The most important business insight was that customers were reaching some product pages, but the pages were not converting efficiently. Several leakage areas were identified across the product funnel, especially in **catalogue quality, A+ content, comparison clarity, product-page trust signals, review communication, and expectation setting**.
 
 ## Business Problem
-
-The brand had a strong product proposition in the premium smart TV category, but its marketplace performance was being limited by visibility, conversion, and return-related issues.
 
 The key business question was:
 
 **How can a newer Indian TV brand improve marketplace sales without relying heavily on discounts or extra marketing spend?**
+
+The brand needed to understand whether weak sales were caused by low traffic, poor pricing, weak offers, poor page visibility, conversion issues, returns, or a combination of these factors.
+
+## Key Findings
+
+- **Traffic was the strongest sales driver**, showing a strong positive relationship with sales.
+- **Final price was not the main conversion driver**, which means discounting alone was unlikely to solve the problem.
+- **Bank offers and coupons were not driving meaningful incremental sales** during normal business periods.
+- **Product C needed immediate attention** because it combined stable traffic, declining sales, high conversion, and high returns.
+- **The product pages had multiple funnel leakage areas**, especially around catalogue completeness, A+ content, customer trust, and comparison messaging.
+- **Marketplace placement mattered** because customers often make decisions before reaching lower category-page positions.
+- **Returns were not only an operations issue**, but also a signal that customer expectations and product-page communication may not have been aligned.
+
+## Root Cause Analysis
+
+The analysis found that the issue was not simply price, offers, or rank.
+
+The likely root causes were:
+
+- **Low marketplace visibility:** The product appeared too far down the category page, reducing discovery during high-intent shopping.
+- **Catalogue leakage:** Product pages were not communicating enough decision-making information clearly, which weakened the buying journey.
+- **A+ content gaps:** The product detail pages lacked strong visual storytelling, comparison tables, benefit-led content, and trust-building proof.
+- **Conversion friction:** Stable traffic but weaker sales indicated that customers were reaching the page but not buying at the expected rate.
+- **Trust and comparison gaps:** As a newer brand, the product needed stronger proof points, reviews, videos, comparisons, and clearer value communication against familiar TV brands.
+- **Weak offer impact:** Bank offers and coupons did not show meaningful incremental sales impact during normal periods.
+- **Return-rate pressure:** Product C converted customers but also showed high returns, pointing to possible expectation mismatch, delivery issues, or product communication gaps.
+
+## Recommendations
+
+- Improve category-page visibility for high-intent premium TV shoppers.
+- Fix product-page leakage across catalogue content, A+ modules, product images, comparison tables, and feature explanations.
+- Make A+ content more conversion-focused by showing why the product is better, who it is for, and how it compares with familiar brands.
+- Use high-quality video and benefit-led visuals to reduce customer doubt before purchase.
+- Add stronger trust signals: ratings, review highlights, warranty clarity, delivery promise, installation support, and return-related expectation setting.
+- Reduce dependency on discounts and focus on traffic quality, SEO, product-page trust, and competitive positioning.
+- Run weekly competitor tracking across pricing, offers, ratings, reviews, A+ content, imagery, claims, and marketplace placement.
+- Investigate Product C returns using Amazon return reports and week-over-week return analysis.
+- Track every major catalogue or content change against traffic, conversion, sales, and return rate.
+
+## Business Impact
+
+This analysis helps the business move from surface-level reporting to decision-making.
+
+Instead of asking only, "Why are sales down?", the project identifies where the problem sits:
+
+- discovery
+- product-page conversion
+- catalogue leakage
+- A+ content gaps
+- customer trust
+- offer effectiveness
+- return behavior
+- marketplace positioning
+
+The recommendations are designed to improve sales quality, reduce wasted discounting, protect profitability, and strengthen the brand's position in a competitive premium TV category.
 
 ## Problem Statement
 
@@ -33,34 +91,7 @@ The analysis needed to answer three business areas:
 
 1. **Understanding trends:** Identify monthly or weekly sales trends, study relationships between traffic, sales, price, conversion, rank, offers, and returns.
 2. **Corrective actions:** Diagnose why a product with stable traffic was declining in sales, reduce returns for the highest-return product, and suggest zero-investment actions to improve sales.
-3. **Qualitative marketplace review:** Analyze the Amazon Television category page and prepare a business pitch to increase Lumio's visibility on the page.
-
-## Objective
-
-- Identify sales and traffic patterns across product lines.
-- Compare year-over-year performance to detect growth gaps.
-- Test whether **traffic, price, offer price, rank, bank offers, and coupons** were meaningfully linked with sales or conversion.
-- Identify the product with the most stable traffic.
-- Identify the product with the highest returns.
-- Find root causes behind declining product performance.
-- Recommend corrective actions to improve sales, reduce returns, and strengthen marketplace visibility.
-
-## Dataset / Source
-
-The project is based on marketplace business data and presentation analysis covering:
-
-- Date-level Amazon product performance data
-- Model-level product identifiers: Product A, Product B, Product C, and Product D
-- List price, bank offer, coupon, and final offer price
-- Bank offer adoption and coupon adoption
-- Product-page traffic
-- Amazon category rank
-- Conversion rate
-- Units sold
-- Customer returns
-- Monthly product-wise sales trends
-- Year-over-year sales performance
-- Marketplace visibility and category-page positioning review
+3. **Qualitative marketplace review:** Analyze the Amazon Television category page and prepare a business pitch to increase the brand's visibility on the page.
 
 ## Data Visualizations & Insights
 
@@ -108,7 +139,7 @@ Bank offers and coupons did not show meaningful incremental sales impact during 
 
 The relationship between bank offers and units sold was approximately **-0.01**, while coupons and units sold showed almost **0.00** correlation.
 
-This means the brand should avoid depending only on discounting. Better results may come from improving traffic quality, SEO, customer trust, reviews, product-page content, and competitive positioning.
+This means the brand should avoid depending only on discounting. Better results may come from improving traffic quality, SEO, customer trust, reviews, product-page content, catalogue quality, and competitive positioning.
 
 ---
 
@@ -118,7 +149,7 @@ This means the brand should avoid depending only on discounting. Better results 
 
 Product C had relatively stable traffic, but sales still declined. This is important because stable traffic means customers were still reaching the product page.
 
-The issue was likely not visibility alone. The deeper problem appeared to be **conversion quality**, including pricing perception, trust gaps, comparison gaps, delivery concerns, reviews, or product-page communication.
+The issue was likely not visibility alone. The deeper problem appeared to be **conversion quality**, including catalogue gaps, A+ content weakness, pricing perception, trust gaps, comparison gaps, delivery concerns, reviews, or product-page communication.
 
 ---
 
@@ -141,10 +172,12 @@ Reducing returns by even **2-3%** in electronics can protect profit by lowering 
 The corrective actions focused on improving conversion without simply increasing discounts:
 
 - Improve SEO titles and keyword coverage.
+- Fix catalogue quality gaps across titles, bullets, images, specifications, and comparison messaging.
+- Improve A+ content with stronger product storytelling, proof points, and benefit-led visuals.
 - Track performance after every listing change.
 - Monitor competitor pricing, content, and reviews.
 - Add stronger comparison tables against leading TV brands.
-- Improve A+ content and use high-quality product videos.
+- Use high-quality product videos early in the page experience.
 - Highlight customer problems solved, not only technical features.
 - Analyze negative review sentiment and reduce repeat complaints.
 - Investigate delivery delays, expectation mismatch, and return reasons.
@@ -174,55 +207,27 @@ The analysis followed a business-first structure:
 3. **Correlation analysis:** Tested whether traffic, final price, rank, bank offers, and coupons were connected with sales or conversion.
 4. **Offer impact review:** Checked whether bank offers and coupons were actually creating incremental sales.
 5. **Product deep dive:** Focused on Product C because it had stable traffic but declining sales and high return risk.
-6. **Return analysis:** Identified the product with the highest returns and connected it to operational and customer-experience risks.
-7. **Category-page review:** Assessed Amazon TV category visibility and built a business case for stronger placement.
-8. **Action planning:** Created practical recommendations across SEO, content, pricing perception, reviews, competitor tracking, returns, and marketplace visibility.
+6. **Funnel leakage review:** Assessed catalogue, A+ content, comparison clarity, trust signals, and product-page communication.
+7. **Return analysis:** Identified the product with the highest returns and connected it to operational and customer-experience risks.
+8. **Category-page review:** Assessed Amazon TV category visibility and built a business case for stronger placement.
+9. **Action planning:** Created practical recommendations across SEO, content, pricing perception, reviews, competitor tracking, returns, and marketplace visibility.
 
-## Root Cause Analysis
+## Data Source
 
-The analysis found that the issue was not only about price or discounts.
+The project is based on marketplace business data and presentation analysis covering:
 
-The likely root causes were:
-
-- **Low marketplace visibility:** The product appeared too far down the category page, reducing discovery during high-intent shopping.
-- **Conversion friction:** Stable traffic but weaker sales indicated that customers were reaching the page but not buying at the expected rate.
-- **Trust and comparison gaps:** Newer brands need stronger proof points, reviews, videos, comparison tables, and clearer value communication.
-- **Weak discount impact:** Bank offers and coupons did not show meaningful incremental sales impact during normal periods.
-- **Return-rate pressure:** Product C converted customers but also showed high returns, pointing to possible expectation mismatch, delivery issues, or product communication gaps.
-
-## Key Findings
-
-- **Traffic was the strongest sales driver**, showing a strong positive relationship with sales.
-- **Price was not the main conversion driver**, meaning discounts alone were unlikely to fix the problem.
-- **Bank offers and coupons were not driving meaningful incremental sales** during BAU periods.
-- **Product C required immediate attention** because it combined stable traffic, declining sales, high conversion, and high returns.
-- **Marketplace placement mattered** because customers often decide before reaching lower category-page positions.
-- **The brand had a strong premium value proposition**, but customers needed to see and trust it earlier in the buying journey.
-
-## Recommendations
-
-- Improve category-page visibility for high-intent premium TV shoppers.
-- Prioritize traffic quality through SEO, sponsored ads, and stronger product keyword coverage.
-- Reduce dependency on discounts and focus on trust-building assets.
-- Improve product-page storytelling with comparison tables, review proof, feature clarity, and video-led content.
-- Run weekly competitor tracking across price, offers, reviews, ratings, content, and placement.
-- Investigate Product C returns using Amazon return reports and week-over-week return analysis.
-- Track every major listing/content change against traffic, conversion, sales, and return rate.
-
-## Business Impact
-
-This analysis helps the business move from surface-level reporting to decision-making.
-
-Instead of asking only, “Why are sales down?”, the project identifies where the problem sits:
-
-- discovery
-- conversion
-- trust
-- offer effectiveness
-- return behavior
-- marketplace positioning
-
-The recommendations are designed to improve sales quality, reduce wasted discounting, protect profitability, and strengthen the brand’s position in a competitive premium TV category.
+- Date-level Amazon product performance data
+- Model-level product identifiers: Product A, Product B, Product C, and Product D
+- List price, bank offer, coupon, and final offer price
+- Bank offer adoption and coupon adoption
+- Product-page traffic
+- Amazon category rank
+- Conversion rate
+- Units sold
+- Customer returns
+- Monthly product-wise sales trends
+- Year-over-year sales performance
+- Marketplace visibility and category-page positioning review
 
 ## Skills Demonstrated
 
@@ -234,41 +239,30 @@ The recommendations are designed to improve sales quality, reduce wasted discoun
 - Offer and coupon effectiveness analysis
 - Marketplace performance analysis
 - Conversion problem diagnosis
+- Funnel leakage analysis
+- Catalogue and A+ content assessment
 - Return-rate analysis
 - Competitive positioning
 - Category-page visibility assessment
 - Business recommendation writing
 - Executive storytelling
 
-## Suggested Screenshot Files
-
-- `01_project_cover.png`
-- `02_monthly_sales_trends.png`
-- `03_yoy_performance.png`
-- `04_correlation_analysis.png`
-- `05_offer_impact_analysis.png`
-- `06_stable_traffic_analysis.png`
-- `07_return_rate_analysis.png`
-- `08_corrective_actions.png`
-- `09_marketplace_visibility_pitch.png`
-- `10_business_case.png`
-
 ## Folder Structure
 
 ```text
 Indian-TV-Brand-Marketplace-Visibility-Analysis/
-├── README.md
-├── presentation/
-│   └── Indian-TV-Brand-Marketplace-Visibility-Analysis.pdf
-└── screenshots/
-    ├── 01_project_cover.png
-    ├── 02_monthly_sales_trends.png
-    ├── 03_yoy_performance.png
-    ├── 04_correlation_analysis.png
-    ├── 05_offer_impact_analysis.png
-    ├── 06_stable_traffic_analysis.png
-    ├── 07_return_rate_analysis.png
-    ├── 08_corrective_actions.png
-    ├── 09_marketplace_visibility_pitch.png
-    └── 10_business_case.png
+|-- README.md
+|-- presentation/
+|   |-- Indian-TV-Brand-Marketplace-Visibility-Analysis.pdf
+|-- screenshots/
+    |-- 01_project_cover.png
+    |-- 02_monthly_sales_trends.png
+    |-- 03_yoy_performance.png
+    |-- 04_correlation_analysis.png
+    |-- 05_offer_impact_analysis.png
+    |-- 06_stable_traffic_analysis.png
+    |-- 07_return_rate_analysis.png
+    |-- 08_corrective_actions.png
+    |-- 09_marketplace_visibility_pitch.png
+    |-- 10_business_case.png
 ```
