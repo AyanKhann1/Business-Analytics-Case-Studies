@@ -1,19 +1,22 @@
 # Business Analytics Case Studies
 
-A collection of business-focused analytics case studies built to solve real business problems using data, root cause analysis, and decision-focused recommendations.
+A collection of **business-focused analytics case studies** built to solve real-world problems using **data-driven insights**, **root cause analysis**, and **decision-focused recommendations**.
 
-## Case Studies
+## Featured Case Studies
 
 | Project | Business Problem | Key Skills |
 |---|---|---|
-| [E-commerce Customer Churn Analysis](E-commerce-Customer-Churn-Analysis) | Identified why customers were leaving and recommended retention actions to reduce churn and protect acquisition spend. | Churn Analysis, Root Cause Analysis, Customer Segmentation, Retention Strategy, Business Storytelling |
-| [Indian TV Brand Marketplace Visibility & Sales Recovery Analysis](Indian-TV-Brand-Marketplace-Visibility-Analysis) | Diagnosed why a newer Indian smart TV brand was not converting marketplace opportunity into stronger sales and recommended actions across visibility, conversion, returns, and positioning. | Marketplace Analytics, Sales Trend Analysis, Correlation Analysis, Root Cause Analysis, Business Recommendations |
+| **E-commerce Customer Churn** | Identified drivers behind **customer attrition** and revenue leakage. | **Churn Analysis**, Root Cause Analysis |
+| **Indian TV Brand Sales** | Diagnosed **marketplace visibility** issues and sales recovery path. | **Marketplace Analytics**, Sales Trends |
 
 ## Focus Areas
 
-- Customer behavior analysis
-- Churn and retention analysis
-- Revenue leakage identification
-- Business root cause analysis
-- KPI interpretation
-- Data-driven recommendations
+- **Customer Behavior & Segmentation**
+- **Churn & Retention Analysis**
+- **Revenue Leakage Identification**
+- **Business Root Cause Analysis**
+- **KPI Interpretation & Tracking**
+- **Data-Driven Strategic Recommendations**
+
+## The Case Study Approach
+Each study is designed to bridge the gap between **raw data** and **business action**, focusing on the "Why" behind the numbers and the "How" of the solution.
