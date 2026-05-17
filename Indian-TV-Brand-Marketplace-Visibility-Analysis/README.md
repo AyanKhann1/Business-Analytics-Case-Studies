@@ -20,7 +20,7 @@ The brand had a strong product proposition in the premium smart TV category, but
 
 The analysis found that **traffic was strongly linked with sales**, but **price discounts, bank offers, coupons, and rank were not strong enough to explain performance on their own**. This shifted the investigation from surface-level discounting to deeper funnel issues.
 
-The most important business insight was that customers were reaching some product pages, but the pages were not converting efficiently. Several leakage areas were identified across the product funnel, especially in **catalogue quality, A+ content, comparison clarity, product-page trust signals, review communication, and expectation setting**.
+The most important business insight was that customers were reaching some product pages, but the pages were not converting efficiently. A major **Competitive Transparency Gap** was identified: product pages **lacked direct comparison tables**, which are critical for high-ticket electronics. Without these tables, customers couldn't easily see why this brand was a **better investment** compared to established competitors at the same price point, leading to decision fatigue and funnel exit.
 
 ## Business Problem
 
@@ -36,7 +36,8 @@ The brand needed to understand whether weak sales were caused by low traffic, po
 - **Final price was not the main conversion driver**, which means discounting alone was unlikely to solve the problem.
 - **Bank offers and coupons were not driving meaningful incremental sales** during normal business periods.
 - **Product C needed immediate attention** because it combined stable traffic, declining sales, high conversion, and high returns.
-- **The product pages had multiple funnel leakage areas**, especially around catalogue completeness, A+ content, customer trust, and comparison messaging.
+- **The product pages had multiple funnel leakage areas**, especially around catalogue completeness, A+ content, customer trust, and **comparison messaging**.
+- **A lack of side-by-side comparison tables** prevented customers from justifying the brand as a "superior investment" against familiar names.
 - **Marketplace placement mattered** because customers often make decisions before reaching lower category-page positions.
 - **Returns were not only an operations issue**, but also a signal that customer expectations and product-page communication may not have been aligned.
 
@@ -48,7 +49,8 @@ The likely root causes were:
 
 - **Low marketplace visibility:** The product appeared too far down the category page, reducing discovery during high-intent shopping.
 - **Catalogue leakage:** Product pages were not communicating enough decision-making information clearly, which weakened the buying journey.
-- **A+ content gaps:** The product detail pages lacked strong visual storytelling, comparison tables, benefit-led content, and trust-building proof.
+- **A+ content gaps:** The product detail pages lacked strong visual storytelling, **benefit-led comparison tables**, and trust-building proof.
+- **Competitive Comparison Gap:** The absence of a table comparing features vs. price against leading brands meant customers had to do manual research, increasing the likelihood of they would drop off and buy from a familiar brand.
 - **Conversion friction:** Stable traffic but weaker sales indicated that customers were reaching the page but not buying at the expected rate.
 - **Trust and comparison gaps:** As a newer brand, the product needed stronger proof points, reviews, videos, comparisons, and clearer value communication against familiar TV brands.
 - **Weak offer impact:** Bank offers and coupons did not show meaningful incremental sales impact during normal periods.
@@ -58,6 +60,7 @@ The likely root causes were:
 
 - Improve category-page visibility for high-intent premium TV shoppers.
 - Fix product-page leakage across catalogue content, A+ modules, product images, comparison tables, and feature explanations.
+- **Implement detailed Comparison Tables** on the PDP (Product Detail Page) to show how the product provides **superior value-for-money** compared to established brands at the same price point.
 - Make A+ content more conversion-focused by showing why the product is better, who it is for, and how it compares with familiar brands.
 - Use high-quality video and benefit-led visuals to reduce customer doubt before purchase.
 - Add stronger trust signals: ratings, review highlights, warranty clarity, delivery promise, installation support, and return-related expectation setting.
@@ -76,12 +79,13 @@ Instead of asking only, "Why are sales down?", the project identifies where the 
 - product-page conversion
 - catalogue leakage
 - A+ content gaps
+- **Competitive transparency (Comparison Tables)**
 - customer trust
 - offer effectiveness
 - return behavior
 - marketplace positioning
 
-The recommendations are designed to improve sales quality, reduce wasted discounting, protect profitability, and strengthen the brand's position in a competitive premium TV category.
+The recommendations are designed to improve sales quality, reduce wasted discounting, protect profitability, and strengthen the brand's position in a competitive premium TV category by helping customers **invest their money at the right place**.
 
 ## Problem Statement
 
@@ -125,7 +129,7 @@ The biggest concern was **May 2025**, where sales dropped by around **41%**, pul
 
 Traffic had a strong positive relationship with sales, with a correlation of approximately **0.81**. This means visibility and shopper visits were strongly linked with business outcomes.
 
-Final price had almost no relationship with conversion, with a correlation of approximately **0.01**. This suggests that shoppers were not deciding only because of price. Trust, reviews, content quality, features, delivery promise, and comparison clarity likely mattered more.
+Final price had almost no relationship with conversion, with a correlation of approximately **0.01**. This suggests that shoppers were not deciding only because of price. Trust, reviews, content quality, features, delivery promise, and **comparison clarity** likely mattered more.
 
 Marketplace rank also showed almost no relationship with sales. This means rank alone should not be treated as the main success metric.
 
@@ -149,7 +153,7 @@ This means the brand should avoid depending only on discounting. Better results 
 
 Product C had relatively stable traffic, but sales still declined. This is important because stable traffic means customers were still reaching the product page.
 
-The issue was likely not visibility alone. The deeper problem appeared to be **conversion quality**, including catalogue gaps, A+ content weakness, pricing perception, trust gaps, comparison gaps, delivery concerns, reviews, or product-page communication.
+The issue was likely not visibility alone. The deeper problem appeared to be **conversion quality**, including catalogue gaps, A+ content weakness, pricing perception, trust gaps, **comparison gaps**, delivery concerns, reviews, or product-page communication.
 
 ---
 
@@ -176,7 +180,7 @@ The corrective actions focused on improving conversion without simply increasing
 - Improve A+ content with stronger product storytelling, proof points, and benefit-led visuals.
 - Track performance after every listing change.
 - Monitor competitor pricing, content, and reviews.
-- Add stronger comparison tables against leading TV brands.
+- **Add stronger comparison tables against leading TV brands** to help customers invest their money at the right place.
 - Use high-quality product videos early in the page experience.
 - Highlight customer problems solved, not only technical features.
 - Analyze negative review sentiment and reduce repeat complaints.
@@ -207,7 +211,7 @@ The analysis followed a business-first structure:
 3. **Correlation analysis:** Tested whether traffic, final price, rank, bank offers, and coupons were connected with sales or conversion.
 4. **Offer impact review:** Checked whether bank offers and coupons were actually creating incremental sales.
 5. **Product deep dive:** Focused on Product C because it had stable traffic but declining sales and high return risk.
-6. **Funnel leakage review:** Assessed catalogue, A+ content, comparison clarity, trust signals, and product-page communication.
+6. **Funnel leakage review:** Assessed catalogue, A+ content, **comparison clarity**, trust signals, and product-page communication.
 7. **Return analysis:** Identified the product with the highest returns and connected it to operational and customer-experience risks.
 8. **Category-page review:** Assessed Amazon TV category visibility and built a business case for stronger placement.
 9. **Action planning:** Created practical recommendations across SEO, content, pricing perception, reviews, competitor tracking, returns, and marketplace visibility.
@@ -242,7 +246,7 @@ The project is based on marketplace business data and presentation analysis cove
 - Funnel leakage analysis
 - Catalogue and A+ content assessment
 - Return-rate analysis
-- Competitive positioning
+- **Competitive transparency and positioning**
 - Category-page visibility assessment
 - Business recommendation writing
 - Executive storytelling
